@@ -156,7 +156,7 @@ For the most part, ret gears like a DPS warrior. With p5 & AQ being out - you ge
 
 Ret's DPS is bad, but if you world buff & use enough consumes you can fight for middle of the pack dps. I consider getting into the `top 10` the equivalent of hitting `1` for a real dps class. Don't let the existential dread of knowing the raid would be better off with another healer, or that a warlock with all these buffs auto attacking with a firestone would do comparable damage. Don't think about it.
 
-### `SpellRet`
+#### SpellRet
 There is a meme spec among the memespecs called SpellRet, where you stack spellpower like a SP hunter, use a manual crowd pummeler & an extreme amount of consumables. It requires 2 debuff slots, one being consecration. It's not viable.
 
 
@@ -236,22 +236,22 @@ I don't like the macro `Decursive` comes with so I rewrote it.
 
 ## Consumables
 Always bring:
-400x Symbol of Kings
-5x Symbol of Divinity
-20x Heavy Runecloth Bandage
-Noggenfogger/Deviate Delight
-Major Mana Potions
-Combat Mana Potions
-Dark Runes/Demonic Runes
+1. 400x Symbol of Kings
+1. 5x Symbol of Divinity
+1. 20x Heavy Runecloth Bandage
+1. Noggenfogger/Deviate Delight
+1. Major Mana Potions
+1. Combat Mana Potions
+1. Dark Runes/Demonic Runes
 
 ### Holy
-Mageblood Potion
-Brilliant Wizard Oil/Brilliant Mana Oil
-Sagefish Delight/Nightfin Soup
+1.Mageblood Potion
+1.Brilliant Wizard Oil/Brilliant Mana Oil
+1.Sagefish Delight/Nightfin Soup
 
 ### Ret
-Dense Sharpening Stone/Elemental Sharpening Stone
-Elixir of Giants
-Sappers/Holy Water/Grenades
-Elixir of the Mongoose
-Blessed Sunfruit
+1. Dense Sharpening Stone/Elemental Sharpening Stone
+1. Elixir of Giants
+1. Sappers/Holy Water/Grenades
+1. Elixir of the Mongoose
+1. Blessed Sunfruit
