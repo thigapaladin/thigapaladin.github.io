@@ -145,15 +145,24 @@ Sim: https://docs.google.com/spreadsheets/d/1UyxeEfswkXhnWX_RJHU7MmYUlD2PzihIq_0
 
 For the most part, ret gears like a DPS warrior. With p5 & AQ being out - you get into t2.5 and wear it forever. Like most melee classes, the majority of ret damage comes from white hits.
 
+#### Threat 
+
 Something to point out about how threat works. Most DPS classes have a flat modifier that reduces how much threat they generate. Ie, they hit for `100` they generate `70` threat. With `Blessing of Salvation` that number is further reduced by `30%`, so they hit for `100` they generate `49` threat. Paladins threat reduction is `Blessing of Salvation` exclusively, so if you hit for `100` you generate `70` threat. This isn't fixed until [the end of TBC](https://wow.gamepedia.com/Fanaticism). This is problematic since paladin dps threat is spikey by design, slow two handers, seal of command & `hand of justice` being BiS.
 
 To be a _"good"_ ret paladin you need to watch the threat meter and be prepared to back off by knowing how much your burst can hit for. Having a macro for a shield is huge and knowing how to position the boss if you pull threat is a necessity.
 
-Ret's DPS is bad, but if you world buff & use enough consumes you can fight for middle of the pack dps. I consider getting into the `top 10` the equivalent of hitting `1` for a real dps class. Don't let the existential dread of knowing the raid would be better off with another healer, or that a warlock with all these buffs auto attacking with a firestone would do comparable damage. Don't think about it.
+#### GCD breaks Procs
+If your [GCD is active](https://www.wowhead.com/news=317112/blizzard-on-proc-effects-and-the-gcd-in-wow-classic) a proc can't occur. This counts for Seal of Command!
 
 #### SpellRet
 There is a meme spec among the memespecs called SpellRet, where you stack spellpower like a SP hunter, use a manual crowd pummeler & an extreme amount of consumables. It requires 2 debuff slots, one being consecration. It's not viable.
 
+#### Seal Twisting
+When you judge command, if you _immediately_ cast another seal it will batch & apply to the target. JoC->SoR increases your DPS somewhat but will consume your mana very quickly. I only use this in PvP against healers, JoC->Seal of Justice has a good chance to stun which can act like half assed interrupt.
+
+#### Overall
+
+Ret's DPS is bad, but if you world buff & use enough consumes you can fight for middle of the pack dps. I consider getting into the `top 10` the equivalent of hitting `1` for a real dps class. Don't let the existential dread of knowing the raid would be better off with another healer, or that a warlock with all these buffs auto attacking with a firestone would do comparable damage. Don't think about it.
 
 ## Macros
 ### Rez
