@@ -24,9 +24,6 @@ That being said, we have the best sustained single target heals of any healing c
 Rank1 is useful for destealthing bad rogues - good ones can walk through it without taking a tick from it. 
 This is on the `low` priority debuff list, and it can remove up to `8` other `low` debuffs, such as `ignite`, `winter's chill`, and `deep wounds`. So don't use it on bosses.
 
-#### Unyielding Faith
-10% fear resistance, comes in really handy if you're going deep holy.
-
 #### Illumination
 One of, if not the, most powerful healing talents in the game. Every time you critically heal, all mana is returned to you.
 
@@ -51,17 +48,11 @@ Ironically kinda bad for tanking 'cause you don't want to be crit. Useful though
 #### Guardian's Favor
 2 Minutes off of BoP & 6 extra seconds on freedom. One of the most important talents we have.
 
-#### Blessing of Kings
-10% stats - everybody wants it.
-
 #### Reckoning
 Turn off auto attack, collect crits, one shot someone.
 ignore the folks who are talking about pserver stuff, this works the same way I remember.
 
 ### Retribution
-
-#### Improved Blessing of Might
-The Warriors won't thank you for this. They'll never thank you for anything.
 
 #### Seal of Command
 7 Procs Per minute, the only way you'll ever see an attack animation. Use a slow two hander.
@@ -154,6 +145,10 @@ Sim: https://docs.google.com/spreadsheets/d/1UyxeEfswkXhnWX_RJHU7MmYUlD2PzihIq_0
 
 For the most part, ret gears like a DPS warrior. With p5 & AQ being out - you get into t2.5 and wear it forever. Like most melee classes, the majority of ret damage comes from white hits.
 
+Something to point out about how threat works. Most DPS classes have a flat modifier that reduces how much threat they generate. Ie, they hit for `100` they generate `70` threat. With `Blessing of Salvation` that number is further reduced by `30%`, so they hit for `100` they generate `49` threat. Paladins threat reduction is `Blessing of Salvation` exclusively, so if you hit for `100` you generate `70` threat. This isn't fixed until [the end of TBC](https://wow.gamepedia.com/Fanaticism). This is problematic since paladin dps threat is spikey by design, slow two handers, seal of command & `hand of justice` being BiS.
+
+To be a _"good"_ ret paladin you need to watch the threat meter and be prepared to back off by knowing how much your burst can hit for. Having a macro for a shield is huge and knowing how to position the boss if you pull threat is a necessity.
+
 Ret's DPS is bad, but if you world buff & use enough consumes you can fight for middle of the pack dps. I consider getting into the `top 10` the equivalent of hitting `1` for a real dps class. Don't let the existential dread of knowing the raid would be better off with another healer, or that a warlock with all these buffs auto attacking with a firestone would do comparable damage. Don't think about it.
 
 #### SpellRet
@@ -235,7 +230,6 @@ I don't like the macro `Decursive` comes with so I rewrote it.
 ```
 
 ## Consumables
-Always bring:
 1. 400x Symbol of Kings
 1. 5x Symbol of Divinity
 1. 20x Heavy Runecloth Bandage
@@ -245,9 +239,9 @@ Always bring:
 1. Dark Runes/Demonic Runes
 
 ### Holy
-1.Mageblood Potion
-1.Brilliant Wizard Oil/Brilliant Mana Oil
-1.Sagefish Delight/Nightfin Soup
+1. Mageblood Potion
+1. Brilliant Wizard Oil/Brilliant Mana Oil
+1. Sagefish Delight/Nightfin Soup
 
 ### Ret
 1. Dense Sharpening Stone/Elemental Sharpening Stone
