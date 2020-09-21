@@ -1,8 +1,5 @@
 # Paladin Manifesto
 
-`All that I have wrought, I have wrought for you.
-You must carry this.`
-
 ## What the hell is this
 A way for me to brain dump all the dumb shit I have stuck in my head, and so when I see some meme in the pally discord about "well if you stick 2 pts in redoubt it TOTALLY makes shockadin viable!!" that I dont fucking drop 100g on respecs.
 
@@ -16,6 +13,8 @@ We are tanks without a taunt, or itemization.
 We are melee dps without a melee attack, and have to stack every stat in the game to do outdps moonkin, and them alone.
 
 Foror & Tigol of the dev team notoriously _hated_ the paladin archetype due to their experiences in everquest and here we are. If you've ever felt that the class feels like something is missing - it's because it was gutted between alpha & beta due to balance issues, and the melee attacks weren't put back.
+
+That being said, we have the best sustained single target heals of any healing class, the best AoE threat generation of the tanks & pretty bad DPS. Also super powerful buffs, cleanse & Lay on Hands is a riot.
 
 ## Notable Talents
 
@@ -72,16 +71,12 @@ It's 2 talent points for 7 sta & not having to equip a carrot on a stick.
 ???
 
 #### Eye for an Eye
-you'll still be dead but you can moderately hurt that elemental shaman back. hooray for 400 damage from the grave.
+you'll still be dead but you can moderately hurt that elemental shaman back.
 
 #### Repentance
-ranged gouge on a one minute timer. priests can dispel it, warriors can zerker rage out. dots break it. 8pc judgement breaks it.
-
-it's good for catching hunters? if it doesn't get resisted that is.
+ranged gouge on a one minute timer. priests can dispel it, warriors can zerker rage out. dots break it.
 
 ## Specs
-
-## Good Specs
 
 ### [31/15/5 - "Full Holy"](https://classic.wowhead.com/talent-calc/paladin/05503102521151-05025102-5)
 
@@ -97,7 +92,7 @@ Orcs & Priests are harder to stun, and _everyone_ knows to kick your heals so it
 
 ### [21/0/30 - "Hybrid Ret"](https://classic.wowhead.com/talent-calc/paladin/50503101501--50204051220315)
 
-You get Divine Favor & Illumination so you can heal raids. You lose out on 5% crit & holy shock, but holy shock is bad and it's better to stack +healing & downrank than stacking crit. This is the "I don't want to respec, but I want to DPS in PvP & heal in raids" spec.
+You get Divine Favor & Illumination so you can heal raids. You lose out on 5% crit & holy shock, but holy shock is situational and it's better to stack +healing & downrank than stacking crit. This is the "I don't want to respec, but I want to DPS in PvP & heal in raids" spec.
 You can swap Divine Str & Int if you want.
 
 Gearing this in PvP you want Tier 2, with an Ony Tooth neck, Don Julio's, and TUF+. But it screams the class fantasy of fighting on the frontlines with a 2her & throwing heals to your friends.
@@ -114,24 +109,18 @@ enjoy not farming anything, not raiding anything and having to respec twice a we
 I dunno whatever Alendi does seems to be super good. I hate tanking :shrug:
 
 
-# Technically not a 'bad' spec but I am loathe to call it a 'good' spec
-
 ### [11/8/32 - "PvE Ret"](https://classic.wowhead.com/talent-calc/paladin/550001-053-552000512203151)
 
-With this, as a human with a sword or mace, you only need 3% hit to cap in PvE.
+With this, as a human with a sword or mace, you only need 3% hit from gear to cap in PvE.
 
-Strong in PvP, and the only halfway viable PvE DPS spec.
+Strong in PvP, and the only viable PvE DPS spec.
 
-
-## Bad Specs
 
 ### [24/27/0 - Holy Reckoning](https://classic.wowhead.com/talent-calc/paladin/05503102521-0532410003315)
 
-You can heal but your damage is going to suck. You're pretty tanky and can occasionally drop a reckbomb for ~3k, which is kinda dissapointing.
+You're pretty tanky and can occasionally drop a reckbomb for ~3k.
 
-Honestly I think this is a holdover from phase 1 & 2 PServers where everyone had 3k health, and scaling was broken.
-
-Super good for farming lashers though.
+Super good for farming, strong heals and _tons_ of utility.
 
 ### [31/0/20 - "2h Shockadin"](https://classic.wowhead.com/talent-calc/paladin/05503102521151--5020305122)
 
@@ -139,8 +128,93 @@ With a ZHC & ~200 Spell power you have ~2k burst damage on command (JoC + DF + H
 
 The utility abilities like PoJ & E4E are nice but until TBC prepatch when Holy shock drops to 6 seconds, this is kind of a joke. It pains me to say it because I played it SO MUCH back in the day, but the skill level of the average player is so much higher that you can't easily cheese with this anymore. It's also impossible to gear because Judgement of Command uses melee crit, but good luck stacking Spell Power & Melee Crit at the same time to an effective amount.
 
-On the bright side you can raid heal easily with this and I guess solo farm? I dunno who grinds one mob at a time in 2020.
-
 ### [0/18/33 "Control Ret"](https://classic.wowhead.com/talent-calc/paladin/-0532410003-502033512203151)
 
 Scuffed arms warrior. Purge purge purge resist resist kek
+With engineering bombs, 4pc r10 & repentance you can be _extremely_ annoying. Very specific use case and most times you're probably better off going ret/reck.
+
+## BiS Lists
+### Holy
+https://docs.google.com/spreadsheets/d/1RFchVXiIqah9tmc5X0T70o7pR-oP4wI_dTOpbbUkClI/edit#gid=656179259
+
+### Prot
+I dunno hopefully Alendi updates this
+
+### Ret
+BiS List: https://docs.google.com/spreadsheets/d/1H43B_WM62qZGmgTXIAIVf_lQm_iZ48_QlobV76uCG4A/edit#gid=1774910341
+Sim: https://docs.google.com/spreadsheets/d/1UyxeEfswkXhnWX_RJHU7MmYUlD2PzihIq_0A0j5c-ws/edit#gid=1269610968
+
+## Macros
+### Rez
+```
+#showtooltip
+/s Rezzing %t
+/cast Redemption
+```
+
+### Seal of Command
+```
+#showtooltip Seal of Command
+/cast [mod:alt] Seal of Command(rank 1); [] Seal of Command
+```
+
+### Blessings
+I use this to save toolbar space, alt for 5min, normal for 15min. Replace Might for whatever you want.
+```
+#showtooltip Greater Blessing of Might
+/cast [mod:alt] Blessing of Might; [] Greater Blessing of Might
+```
+
+### Mount
+```
+#showtooltip
+/cancelaura Horde Flag
+/use [nooutdoors] Yellow Qiraji Resonating Crystal
+/castsequence [outdoors] Summon Charger 
+```
+
+### Sac/BoP/Freedom Mouseover
+```
+#showtooltip Blessing of Sacrifice
+/stopcasting
+/cast [@mouseover,nomod,exists] Blessing of Sacrifice;   Blessing of Sacrifice
+```
+
+### Hammer of Justice
+```
+#showtooltip Hammer of Justice
+/stopcasting
+/cast Hammer of Justice
+```
+
+
+### Weapon Swap
+Swaps between my ret weapon & my healing stuff with a button press and back. I use the alt version to swap to tanking gear in case I pull aggro or something. I also keep a weapon chain on my quel'serrar so that I can swap if I see a warrior going to defensive stance for a `disarm`.
+```
+/equip [noequipped:shields] jin'Do's Hexxer; Ashkandi, Greatsword of the Brotherhood
+/equip [noequipped:shields] Malistar's Defender
+/equip [mod:alt,noequipped:shields] SkullFlame Shield
+/equip [mod:alt,noequipped:shields] Quel'Serrar
+```
+
+### Flash of Light
+```
+#showtooltip
+/cast [mod:alt] Flash of Light(rank 1); [] Flash of Light(rank 5)
+```
+
+### Consecration
+```
+#showtooltip Consecration
+/cast [mod:alt] Consecration(rank 1); [] Consecration(rank 5)
+
+```
+
+### Cleanse
+I don't like the macro `Decursive` comes with so I rewrote it.
+```
+#showtooltip Cleanse
+/stopcasting
+/cast [@mouseover,nomod,exists] Cleanse;  Cleanse
+```
+
