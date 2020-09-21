@@ -14,7 +14,7 @@ We are melee dps without a melee attack, and have to stack every stat in the gam
 
 Foror & Tigol of the dev team notoriously _hated_ the paladin archetype due to their experiences in everquest and here we are. If you've ever felt that the class feels like something is missing - it's because it was gutted between alpha & beta due to balance issues, and the melee attacks weren't put back.
 
-That being said, we have the best sustained single target heals of any healing class, the best AoE threat generation of the tanks & pretty bad DPS. Also super powerful buffs, cleanse & Lay on Hands is a riot.
+That being said, we have the best sustained single target heals of any healing class, the best AoE threat generation of the tanks & pretty bad DPS. Also super powerful buffs, cleanse & Lay on Hands can save your raid.
 
 ## Notable Talents
 
@@ -25,7 +25,7 @@ Rank1 is useful for destealthing bad rogues - good ones can walk through it with
 This is on the `low` priority debuff list, and it can remove up to `8` other `low` debuffs, such as `ignite`, `winter's chill`, and `deep wounds`. So don't use it on bosses.
 
 #### Unyielding Faith
-I love this talent. You will too once you realize how many fears are in this game.
+10% fear resistance, comes in really handy if you're going deep holy.
 
 #### Illumination
 One of, if not the, most powerful healing talents in the game. Every time you critically heal, all mana is returned to you.
@@ -46,17 +46,17 @@ As a way to snipe kills from **REDACTED** in AB, it's pretty good.
 ### Protection
 
 #### Redoubt
-Ironically kinda bad for tanking 'cause you don't want to be crit. So useful though for fighting off rogues, warriors & hunter pets.
+Ironically kinda bad for tanking 'cause you don't want to be crit. Useful though for fighting off rogues, warriors & hunter pets.
 
 #### Guardian's Favor
 2 Minutes off of BoP & 6 extra seconds on freedom. One of the most important talents we have.
 
 #### Blessing of Kings
-10% stats - c'mon. Used to be the 31pt ret talent, so there was a point to bring ret pallies.
+10% stats - everybody wants it.
 
 #### Reckoning
 Turn off auto attack, collect crits, one shot someone.
-"bUt PsErVeRs" shutup they were broken there - this works the way it did back in the day.
+ignore the folks who are talking about pserver stuff, this works the same way I remember.
 
 ### Retribution
 
@@ -69,6 +69,10 @@ The Warriors won't thank you for this. They'll never thank you for anything.
 #### Pursuit of Justice
 It's 2 talent points for 7 sta & not having to equip a carrot on a stick.
 ???
+I can never decide if I like it or not.
+
+#### Vindication
+Useful in PvP, -15% Str & Agi is pretty huge. But this does nothing in PvE as mobs only have Health & AP, not base stats. Most mobs are immune, but some like `nefarian` it will apply to and consume a buff slot. So if you PvE dps at all (including tossing up a judgement of wisdom), avoid.
 
 #### Eye for an Eye
 you'll still be dead but you can moderately hurt that elemental shaman back.
@@ -92,10 +96,12 @@ Orcs & Priests are harder to stun, and _everyone_ knows to kick your heals so it
 
 ### [21/0/30 - "Hybrid Ret"](https://classic.wowhead.com/talent-calc/paladin/50503101501--50204051220315)
 
-You get Divine Favor & Illumination so you can heal raids. You lose out on 5% crit & holy shock, but holy shock is situational and it's better to stack +healing & downrank than stacking crit. This is the "I don't want to respec, but I want to DPS in PvP & heal in raids" spec.
+You get Divine Favor & Illumination so you can heal raids. You lose out on 5% crit & holy shock, but not the end of the world. This is the "I don't want to respec, but I want to DPS in PvP & heal in raids" spec.
 You can swap Divine Str & Int if you want.
 
 Gearing this in PvP you want Tier 2, with an Ony Tooth neck, Don Julio's, and TUF+. But it screams the class fantasy of fighting on the frontlines with a 2her & throwing heals to your friends.
+
+If you swap divine favor for repentance, you're looking at a very niche premade healer build.
 
 
 ### [0/25/26 - "Ret Reckoning"](https://classic.wowhead.com/talent-calc/paladin/-0532510103005-50204051220311)
@@ -106,7 +112,7 @@ hahahaha reckoning go brrrrr
 enjoy not farming anything, not raiding anything and having to respec twice a week. But man dropping those 6k+ reckbombs is what i remember serotonin feeling like.
 
 ### Prot ???
-I dunno whatever Alendi does seems to be super good. I hate tanking :shrug:
+I dunno whatever Alendi does seems to be super good.
 
 
 ### [11/8/32 - "PvE Ret"](https://classic.wowhead.com/talent-calc/paladin/550001-053-552000512203151)
@@ -133,16 +139,26 @@ The utility abilities like PoJ & E4E are nice but until TBC prepatch when Holy s
 Scuffed arms warrior. Purge purge purge resist resist kek
 With engineering bombs, 4pc r10 & repentance you can be _extremely_ annoying. Very specific use case and most times you're probably better off going ret/reck.
 
-## BiS Lists
+## Gear
 ### Holy
-https://docs.google.com/spreadsheets/d/1RFchVXiIqah9tmc5X0T70o7pR-oP4wI_dTOpbbUkClI/edit#gid=656179259
+BiS List: https://docs.google.com/spreadsheets/d/1RFchVXiIqah9tmc5X0T70o7pR-oP4wI_dTOpbbUkClI/edit#gid=656179259
 
 ### Prot
 I dunno hopefully Alendi updates this
 
 ### Ret
+
 BiS List: https://docs.google.com/spreadsheets/d/1H43B_WM62qZGmgTXIAIVf_lQm_iZ48_QlobV76uCG4A/edit#gid=1774910341
+
 Sim: https://docs.google.com/spreadsheets/d/1UyxeEfswkXhnWX_RJHU7MmYUlD2PzihIq_0A0j5c-ws/edit#gid=1269610968
+
+For the most part, ret gears like a DPS warrior. With p5 & AQ being out - you get into t2.5 and wear it forever. Like most melee classes, the majority of ret damage comes from white hits.
+
+Ret's DPS is bad, but if you world buff & use enough consumes you can fight for middle of the pack dps. I consider getting into the `top 10` the equivalent of hitting `1` for a real dps class. Don't let the existential dread of knowing the raid would be better off with another healer, or that a warlock with all these buffs auto attacking with a firestone would do comparable damage. Don't think about it.
+
+### `SpellRet`
+There is a meme spec among the memespecs called SpellRet, where you stack spellpower like a SP hunter, use a manual crowd pummeler & an extreme amount of consumables. It requires 2 debuff slots, one being consecration. It's not viable.
+
 
 ## Macros
 ### Rez
@@ -218,3 +234,24 @@ I don't like the macro `Decursive` comes with so I rewrote it.
 /cast [@mouseover,nomod,exists] Cleanse;  Cleanse
 ```
 
+## Consumables
+Always bring:
+400x Symbol of Kings
+5x Symbol of Divinity
+20x Heavy Runecloth Bandage
+Noggenfogger/Deviate Delight
+Major Mana Potions
+Combat Mana Potions
+Dark Runes/Demonic Runes
+
+### Holy
+Mageblood Potion
+Brilliant Wizard Oil/Brilliant Mana Oil
+Sagefish Delight/Nightfin Soup
+
+### Ret
+Dense Sharpening Stone/Elemental Sharpening Stone
+Elixir of Giants
+Sappers/Holy Water/Grenades
+Elixir of the Mongoose
+Blessed Sunfruit
