@@ -134,6 +134,14 @@ With engineering bombs, 4pc r10 & repentance you can be _extremely_ annoying. Ve
 ### Holy
 BiS List: https://docs.google.com/spreadsheets/d/1RFchVXiIqah9tmc5X0T70o7pR-oP4wI_dTOpbbUkClI/edit#gid=656179259
 
+tl;dr
+stack +healing over all else
+flash of light rank 1 is the most efficient heal in the game
+flash of rank 3 is slightly less efficient but has more 'oomph'
+flash of light rank 5 etc
+
+Divine Favor + Holy Light will save your tank if you're quick
+
 ### Prot
 I dunno hopefully Alendi updates this
 
